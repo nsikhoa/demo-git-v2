@@ -1,1 +1,1 @@
-Hướng dẫn sử dụng project
+Hướng dẫn sử dụng project - version 2
